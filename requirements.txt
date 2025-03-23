@@ -1,0 +1,8 @@
+streamlit
+requests
+bs4
+gtts
+google-generativeai
+python-dotenv
+fastapi
+uvicorn
