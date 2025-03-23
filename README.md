@@ -26,7 +26,7 @@ The application consists of:
 ### **1️. Summarization & Sentiment Analysis**
 - Uses Google Gemini API for text summarization & sentiment classification.
 - Extract key topics and perform comparative analysis across multiple articles.
-- 
+  
 ### **2️. Text-to-Speech (TTS)**
 - Uses gTTS (Google Text-to-Speech) for converting summarized text into Hindi speech.
 
@@ -38,7 +38,7 @@ The application consists of:
 git clone https://huggingface.co/spaces/YOUR_USERNAME/news-summarization-app
 ```
 
-### **2. Environment Variables **
+### **2. Environment Variables**
 Set environment variables:
 - NEWSAPI_KEY=YOUR_NEWSAPI.ORG_KEY
 - GEMINI_API_KEY=YOUR_GEMINI_API_KEY
