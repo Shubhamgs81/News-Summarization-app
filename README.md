@@ -38,7 +38,7 @@ The application consists of:
 git clone https://huggingface.co/spaces/YOUR_USERNAME/news-summarization-app
 ```
 
-### **2. Clone the Repository**
+### **2. Environment Variables **
 Set environment variables:
 - NEWSAPI_KEY=YOUR_NEWSAPI.ORG_KEY
 - GEMINI_API_KEY=YOUR_GEMINI_API_KEY
